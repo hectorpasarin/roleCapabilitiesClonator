@@ -20,8 +20,10 @@ Herramienta que facilita copiar los permisos de un rol en concreto desde un Site
 10. En la página cargada , nos aseguramos que se ha pulsado en "Mostrar Avanzadas"
 11. Activamos con F12 y luego pulsando en "console" la consola Javascript
 12. Pegamos la función copiada en 9 y la ejecutamos escribiendo en una nueva linea de la consola el nombre de la función seguida de parentesis ()
-13. Al ejecutarse la función, los radio buttons se checkearan según como estaban en el site original
-14. Revisamos la configuración, si nos convence damos en "Guardar Cambios"
+13. Al ejecutarse la función, los radio buttons se checkearan según como estaban en el site original, en consola podemos ver algo como lo siguiente:
+   ![imagen](https://github.com/hectorpasarin/roleCapabilitiesClonator/assets/103027691/7077288f-d642-4fe5-8c50-8fdabbd53161)
+
+15. Revisamos la configuración, si nos convence damos en "Guardar Cambios"
 
 
 
